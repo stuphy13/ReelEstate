@@ -9,13 +9,17 @@ This repository contains a beginner-friendly machine learning project where I pr
 * To practice Data Pre-processing.
 * Learn to visualize data using Matplotlib.
 * Data handling using Pandas.
-* Understanding how the linear regression actually works. (Without using Scikit-Learn)
+* Correlation between variables.
+* Feature Selection.
+* Feature scaling using K-Scores(mean 0 and st.deviation 1)
+* Understanding how the linear regression and multiple linear regression actually works. (Without using Scikit-Learn).
 * Practice Gradient descent algorithm.
 
 
 
-### Tools Used
+### Tools and Libraries Used
 
 1. NumPy
 2. Pandas
 3. Matplotlib
+4. Seaborn
